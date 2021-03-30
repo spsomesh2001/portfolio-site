@@ -22,7 +22,7 @@ const Footer = () => {
 
         <SocialMediaWrapper>
           <SocialMediaIcons>
-            <SocialMediaLink href="/" target="_blank" aria-label="GitHub">
+            <SocialMediaLink href={'https://github.com/spsomesh2001'} target="_blank" aria-label="GitHub">
               <FaGithub/>
             </SocialMediaLink>
             <SocialMediaLink href={'https://www.linkedin.com/in/somesh-kirthik-789ba8192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2A9EYlspS8OthDYD06TdQw%3D%3D'} rel='noopener noreferrer' target="_blank" aria-label="LinkedIn">
