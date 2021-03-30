@@ -18,7 +18,7 @@ export const sitep1 = {
   src: sp1,
   alt: "sitep1-img",
   siteHeading: "Travel Page",
-  siteDesc: "Created using React. Features Used: React Hooks"
+  siteDesc: "Created using React. Features Used: React Hooks."
 }
 
 export const sitep2 = {
@@ -40,7 +40,7 @@ export const sitep3 = {
   src: sp3,
   alt: "sitep3-img",
   siteHeading: "Restaurant Page",
-  siteDesc: "Created using React. Features Used: Styled components, React Hooks, React Router, React Icons,"
+  siteDesc: "Created using React. Features Used: Styled components, React Hooks, React Router, React Icons."
 }
 
 export const sitep4 = {
@@ -51,7 +51,7 @@ export const sitep4 = {
   src: sp4,
   alt: "sitep4-img",
   siteHeading: "Marketing Page",
-  siteDesc: "Created using React. Features Used: Styled components, React Hooks, React Router, React Icons, React Scroll"
+  siteDesc: "Created using React. Features Used: Styled components, React Hooks, React Router, React Icons, React Scroll."
 }
 
 export const sitemy1 = {
