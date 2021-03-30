@@ -18,7 +18,7 @@ export const sitep1 = {
   src: sp1,
   alt: "sitep1-img",
   siteHeading: "Travel Page",
-  siteDesc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem non qui voluptates at eos consequuntur, est magnam unde consequatur iusto dolores quibusdam molestias officiis iste alias tempore animi autem ducimus."
+  siteDesc: "Created using React. Features Used: React Hooks"
 }
 
 export const sitep2 = {
@@ -29,7 +29,7 @@ export const sitep2 = {
   src: sp2,
   alt: "sitep2-img",
   siteHeading: "Payment Page",
-  siteDesc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem non qui voluptates at eos consequuntur, est magnam unde consequatur iusto dolores quibusdam molestias officiis iste alias tempore animi autem ducimus."
+  siteDesc: "Created using React. Features Used: React Hooks, React Router, React Icons"
 }
 
 export const sitep3 = {
@@ -40,7 +40,7 @@ export const sitep3 = {
   src: sp3,
   alt: "sitep3-img",
   siteHeading: "Restaurant Page",
-  siteDesc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem non qui voluptates at eos consequuntur, est magnam unde consequatur iusto dolores quibusdam molestias officiis iste alias tempore animi autem ducimus."
+  siteDesc: "Created using React. Features Used: Styled components, React Hooks, React Router, React Icons,"
 }
 
 export const sitep4 = {
@@ -51,7 +51,7 @@ export const sitep4 = {
   src: sp4,
   alt: "sitep4-img",
   siteHeading: "Marketing Page",
-  siteDesc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem non qui voluptates at eos consequuntur, est magnam unde consequatur iusto dolores quibusdam molestias officiis iste alias tempore animi autem ducimus."
+  siteDesc: "Created using React. Features Used: Styled components, React Hooks, React Router, React Icons, React Scroll"
 }
 
 export const sitemy1 = {
@@ -62,7 +62,7 @@ export const sitemy1 = {
   src: sm1,
   alt: "sitemy1-img",
   siteHeading: "Portfolio Site",
-  siteDesc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem non qui voluptates at eos consequuntur, est magnam unde consequatur iusto dolores quibusdam molestias officiis iste alias tempore animi autem ducimus."
+  siteDesc: "Created using React. Featues used: Styled components, React Hooks, React Router, React Icons, React Scroll."
 }
 
 export const sitemy2 = {
@@ -73,5 +73,5 @@ export const sitemy2 = {
   src: sm2,
   alt: "sitemy2-img",
   siteHeading: "Chocolate E-Commerce Site",
-  siteDesc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem non qui voluptates at eos consequuntur, est magnam unde consequatur iusto dolores quibusdam molestias officiis iste alias tempore animi autem ducimus."
+  siteDesc: "Created using React. Featues used: Styled components, React Hooks, React Router, React Icons ,React Scroll."
 }

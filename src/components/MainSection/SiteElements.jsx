@@ -3,8 +3,8 @@ import styled from 'styled-components'
 
 export const SiteItem = styled(Link)`
   width: 100%;
-  max-width: 450px;
-  height: 500px;
+  max-width: 400px;
+  height: 435px;
   background-color: #fff;
   margin: 10px 20px;
   padding: 20px 0;
@@ -70,7 +70,8 @@ export const SiteHeading = styled.h2`
 
 export const SiteDesc = styled.p`
   background: #e5e5e5;
-  resize: vertical;
   width: 90%;
+  min-height: 80px;
   padding: 5px;
+  font-size: 1.1rem;
 `
