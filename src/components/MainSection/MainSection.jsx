@@ -2,7 +2,7 @@ import React from 'react'
 import { MainContainer, MainContentWrapper, SectionHeading, SectionItem, SectionWrapper, Sites } from './MainSectionElements'
 import { IconContext } from 'react-icons/lib'
 import Site from './Site'
-import { sitep1, sitep2, sitep3, sitep4, sitemy1} from './data'
+import { sitep1, sitep2, sitep3, sitep4, sitemy1, sitemy2} from './data'
 
 
 const MainSection = () => {
@@ -29,6 +29,7 @@ const MainSection = () => {
             <SectionHeading id="myDesign">My Designs</SectionHeading>
             <Sites>
               <Site {...sitemy1}></Site>
+              <Site {...sitemy2}></Site>
             </Sites>
           </SectionItem>
         </SectionWrapper>
