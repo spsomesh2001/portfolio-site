@@ -12,7 +12,7 @@ const Header = () => {
   }
 
   const closeMenu = () => {
-    if(window.innerWidth <= 671) {
+    if(window.innerWidth <= 670) {
       setClick(false);
     }
   }
@@ -50,7 +50,7 @@ const Header = () => {
         <NavMenuWrapper click={click} onClick={handleClick}>
           <NavMenu>
             <NavMenuItem scrolled={scrolled}>
-              <NavItemLink onClick={scrollToTop} scrolled={scrolled}>Home</NavItemLink>
+              <NavItemLink onClick={() => { scrollToTop(); handleClick();}} scrolled={scrolled}>Home</NavItemLink>
             </NavMenuItem>
             <NavMenuItem scrolled={scrolled}>
               <NavItemLink activeClass="active" to="pracDesign" spy={true} smooth={true} offset={-100} duration={600} onClick={handleClick} scrolled={scrolled}>Practiced Designs</NavItemLink>
